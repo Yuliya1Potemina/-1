@@ -1,0 +1,5 @@
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача8\obj\Debug\net6.0\задача8.csproj.AssemblyReference.cache
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача8\obj\Debug\net6.0\задача8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача8\obj\Debug\net6.0\задача8.AssemblyInfoInputs.cache
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача8\obj\Debug\net6.0\задача8.AssemblyInfo.cs
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача8\obj\Debug\net6.0\задача8.csproj.CoreCompileInputs.cache
