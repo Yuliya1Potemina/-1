@@ -1,0 +1,15 @@
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\bin\Debug\net6.0\задача6.exe
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\bin\Debug\net6.0\задача6.deps.json
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\bin\Debug\net6.0\задача6.runtimeconfig.json
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\bin\Debug\net6.0\задача6.dll
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\bin\Debug\net6.0\задача6.pdb
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.csproj.AssemblyReference.cache
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.AssemblyInfoInputs.cache
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.AssemblyInfo.cs
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.csproj.CoreCompileInputs.cache
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.dll
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\refint\задача6.dll
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.pdb
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\задача6.genruntimeconfig.cache
+C:\Users\potyo\OneDrive\Рабочий стол\урок 1\задача6\obj\Debug\net6.0\ref\задача6.dll
